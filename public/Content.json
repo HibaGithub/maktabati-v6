@@ -1,0 +1,202 @@
+{
+  "Books": [
+    {
+      "id": 1,
+      "imgs": "cover.jpg",
+      "img": "/Database/images/cover.jpg",
+      "tag": "كتاب",
+      "file": "/Database/documents/couver3.pdf",
+      "description": "تلخيص الكتاب",
+      "title": "العادات الدرية",
+      "author": "جيمس كلير"
+    },
+    {
+      "id": 2,
+      "imgs": "cover2.jpg",
+      "img": " /Database/images/cover2.jpg",
+      "tag": "كتاب",
+      "file": "/Database/documents/cover2.pdf",
+      "description": "تلخيص الكتاب",
+      "title": "نظرية الفستق",
+      "author": " فهد عامر الاحمدي"
+    },
+    {
+      "id": 3,
+      "imgs": "couver7.jfif",
+      "img": "/Database/images/couver7.jfif",
+      "tag": "كتاب",
+      "file": "/Database/documents/couver5.pdf",
+      "description": "تلخيص الكتاب",
+      "title": " كيف تضاعف ذكائك",
+      "author": "سكوت وات "
+    },
+    {
+      "id": 4,
+      "imgs": "couver5.jpg",
+      "img": "/Database/images/couver5.jpg",
+      "tag": "كتاب",
+      "file": "/Database/documents/black.pdf",
+      "description": "تلخيص الكتاب",
+      "title": "رواية الستار الأسود العالم الآخر",
+      "author": "نبيل فاروق",
+      "impression": null
+    },
+    {
+      "id": 5,
+      "imgs": "cover6.jpg",
+      "img": " /Database/images/cover6.jpg",
+      "tag": "كتاب",
+      "file": "/Database/documents/fnidaratlmawa9if.pdf",
+      "description": "تلخيص الكتاب",
+      "title": "  فن إدارة المواقف",
+      "author": "محمد بن عبد الله بن محمد الفريح ",
+      "impression": null
+    },
+    {
+      "id": 6,
+      "imgs": "cover10.jpg",
+      "img": " /Database/images/cover10.jpg",
+      "tag": "كتاب",
+      "file": "/Database/documents/kaifatajdibo.pdf",
+      "description": "تلخيص الكتاب",
+      "title": "كيف تجذب الناس كالمغناطيس",
+      "author": "ليل لاوندس"
+    },
+    {
+      "id": 8,
+      "imgs": "cover3.jpg",
+      "img": "/Database/images/cover3.jpg",
+      "tag": "كتاب",
+      "file": "/Database/documents/cover4.pdf",
+      "description": "تلخيص ",
+      "title": "تصرفي كسيدة وفكري كرجل",
+      "author": " ستيف هارفي"
+    }
+  ],
+  "Audio": [
+    {
+      "id": 1,
+      "audio": " /Database/audio/audio1.mp3",
+      "imgs": "7.png",
+      "tag": "اديو",
+      "file": "branding.pdf",
+      "description": "تلخيص الكتاب",
+      "title": "كتاب مسموع"
+    },
+    {
+      "id": 2,
+      "audio": " /Database/audio/audio1.mp3",
+      "imgs": "8.png",
+      "tag": "اديو",
+      "file": "branding.pdf",
+      "description": "تلخيص الكتاب",
+      "title": "كتاب مسموع"
+    },
+    {
+      "id": 3,
+      "audio": " /Database/audio/audio1.mp3",
+      "imgs": "9.png",
+      "tag": "اديو",
+      "file": "branding.pdf",
+      "description": "تلخيص الكتاب",
+      "title": "كتاب مسموع"
+    },
+    {
+      "id": 4,
+      "audio": " /Database/audio/audio1.mp3",
+      "imgs": "10.png",
+      "tag": "اديو",
+      "file": "branding.pdf",
+      "description": "تلخيص الكتاب",
+      "title": "كتاب مسموع",
+      "impression": null
+    },
+    {
+      "id": 5,
+      "audio": " /Database/audio/audio1.mp3",
+      "imgs": "7.png",
+      "tag": "اديو",
+      "file": "branding.pdf",
+      "description": "تلخيص الكتاب",
+      "title": "كتاب مسموع",
+      "impression": null
+    },
+    {
+      "id": 6,
+      "audio": " /Database/audio/audio1.mp3",
+      "imgs": "9.png",
+      "tag": "اديو",
+      "file": "branding.pdf",
+      "description": "تلخيص الكتاب",
+      "title": "كتاب مسموع"
+    }
+  ],
+  "Video": [
+    {
+      "id": 1,
+      "video": "/Database/videos/bookvideo.mp4",
+      "imgs": "1.png",
+      "tag": "فيديو",
+      "file": "branding.pdf",
+      "description": "تلخيص الكتاب",
+      "title": "مشاهدة فيديو"
+    },
+    {
+      "id": 2,
+      "video": "/Database/videos/book1.mp4",
+      "imgs": "2.png",
+      "tag": "فيديو",
+      "file": "branding.pdf",
+      "description": "تلخيص الكتاب",
+      "title": "مشاهدة فيديو"
+    },
+    {
+      "id": 3,
+      "video": "/Database/videos/book2.mp4",
+      "imgs": "3.png",
+      "tag": "فيديو",
+      "file": "branding.pdf",
+      "description": "تلخيص الكتاب",
+      "title": "مشاهدة فيديو"
+    },
+    {
+      "id": 4,
+      "video": "/Database/videos/book3.mp4",
+      "imgs": "4.png",
+      "tag": "فيديو",
+      "file": "book3.mp4",
+      "description": "تلخيص الكتاب",
+      "title": "مشاهدة فيديو"
+    },
+    {
+      "id": 5,
+      "video": "/Database/videos/book4.mp4",
+      "imgs": "5.png",
+      "tag": "فيديو",
+      "file": "book4.mp4",
+      "description": "تلخيص الكتاب",
+      "title": "مشاهدة فيديو",
+      "impression": 3
+    },
+    {
+      "id": 6,
+      "video": "/Database/videos/book5.mp4",
+      "imgs": "2.png",
+      "tag": "فيديو",
+      "file": "book5.mp4",
+      "description": "تلخيص الكتاب",
+      "title": "مشاهدة فيديو",
+      "impression": 3
+    },
+    {
+      "id": 7,
+      "video": "/Database/videos/book1.mp4",
+      "imgs": "1.png",
+      "tag": "فيديو",
+      "file": "book1.mp4",
+      "description": "تلخيص الكتاب",
+      "title": "مشاهدة فيديو",
+      "impression": null
+    }
+  ]
+}
